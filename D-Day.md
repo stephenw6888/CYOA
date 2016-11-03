@@ -1,0 +1,1 @@
+You wake up to realized that you were on a US landing craft approaching Normandy Beach. You were carrying heavy equipment as you realized the soldiers around you are fearing for the worse. You suddenly realized that you were in a huge Naval invasion and you have one minute to prepare shout by the British Driver. You attempt to calm yourself down and believe that you will re
