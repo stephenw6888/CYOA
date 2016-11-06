@@ -1,1 +1,5 @@
-YO
+You turn your head towards the Sand Wall, the safetest and dangerest option and it gives you shelter from the bullets. You made a run for the Sand Wall, you notice many US soldiers staying behind the Tank Barricade was crying out for their family. Many was in pain from the explosions and bullets tearing them apart. You look ahead and wondered why you volunteer for this war, but you know that you kept a promise to your sister. You quickly made a dash for the wall as many Marine clustered up on the Sand Wall shouting orders. "SIR! WE HAVE LOST FOX AND DELTA AND ONLY FIFTH OF OUR BATTALION MADE IT HERE!" The commander look at the shoreline of the scareded soldiers. "Those men arw gonna die, the second wave is arriving soon, shoot!" You finally made it to the sand wall and then the Marine Commander shout "YOU BOY! I NEED YOU TO LOOK OUT FOR THE GERMAN UP AHEAD!" You followed the order and you peek out of the sand wall. You see a German Nest shooting down at your location. You realized that the position was tough for you to move up but you have two option:
+
+[You aim your Enfeild Rifle at the German]()
+
+[You throw a personel gernade at the nest]
