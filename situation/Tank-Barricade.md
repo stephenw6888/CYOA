@@ -1,5 +1,5 @@
 You immediately runs towards the tank barricade filled with many American soldiers staying there. You notice the explosions of shells hitting around you as bullets flies around as many soldiers was running towards the barricade. You quicly notice that many American soldiers was either on the ground or many dead from the bullets and artillery shells. The guts coming out from the wounds as many was crying out or dead. You realized that you are gonna die but you kept a promise with your sister. You arrived at the tank barricade hearing many soldiers wimphering in fear. "MOVE OUT MEN! CLEAR THE BEACH FOR THE ENGINEER TO CLEAR FOR THE TANKS AND THE INFANTRY!" "BUT SIR! THE ONLY THING PROTECTING US IS THESE BARRICADE TO THE WALL!" "YOU WILL DIE HERE IF YOU DON'T MOVE! NOW GO!" You look around for your battalion as many German was raing bullets on you. You notice a battalion penetrated through the sand wall barb wire and the other battalion staying here at the barricade, you:
 
-[Follow the Battalion heading throught the sand wall]()
+[Follow the Battalion heading throught the sand wall](Battalion.md)
 
-[Stay with the other Battalion]()
+[Stay with the other Battalion](Death-By-Bullet.md)
