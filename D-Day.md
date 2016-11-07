@@ -2,6 +2,6 @@
 
 ## [You run through the door](situation/Run-Door.md)
 
-## [You jump over to your left](Left-Side.md)
+## [You jump over to your left](situation/Left-Side.md)
 
-## [You jump over to your right](Right-Side.md)
+## [You jump over to your right](situation/Right-Side.md)
