@@ -1,5 +1,5 @@
-You attempt to swim up with your equipment but you started to drown and died.
+>You attempt to swim up with your equipment but you started to drown and died.
 
-To return to the start:
+## To return to the start:
 
-[Click here to return to start](../D-Day.md)
+## [Click here to return to start](../D-Day.md)

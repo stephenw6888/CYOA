@@ -1,5 +1,5 @@
-You took aim at the German Gunner and open fire, a bullet hit the machine gun but your second shot hit the German in the head killing him and saving the soldiers. An hour later, Omaha and four others beaches was taken by the Allies and made swift attempt to land more supplies and men over to Northern France. But your fight isn't over yet, after your brave attempt in killing the Gunner, the Commander assign you to the Marine to retake back Northern France from German control and rescue many US paratrooper. After the war have ended, you return back to New York to be reunited with your family and lived on till you died at the age of 100. Your story ends here as your children and grand children lived on to tell your story of the darkest time of the world. 
+>You took aim at the German Gunner and open fire, a bullet hit the machine gun but your second shot hit the German in the head killing him and saving the soldiers. An hour later, Omaha and four others beaches was taken by the Allies and made swift attempt to land more supplies and men over to Northern France. But your fight isn't over yet, after your brave attempt in killing the Gunner, the Commander assign you to the Marine to retake back Northern France from German control and rescue many US paratrooper. After the war have ended, you return back to New York to be reunited with your family and lived on till you died at the age of 100. Your story ends here as your children and grand children lived on to tell your story of the darkest time of the world. 
 
-To return to the start:
+## To return to the start:
 
-[Click here to return to start](../D-Day.md)
+##[Click here to return to start](../D-Day.md)
