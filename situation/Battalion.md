@@ -1,5 +1,5 @@
 >As you thought about a second, the battalion started to push in and you quickly made up your mind. You charged out hoping you don't get hit and a many bulets nearly hit you. You quickly aim your rifle at the German entrenchment and open fire, forcing the German to take cover. You quickly arrived behind a whole Battalion and you heaqrd the Commander shouting out "MEN! TAKE THOSE ENTRENCHMENT!" They nod and quickly push ahead towards the German Entrench position. You followed too and ran behind a few soldiers. As you followed them a German soldiers open fire on your group and you quickly took cover. As you slide down in the trench, the soldiers was firing back at the German. You quickly look up and notice a German soldier with a machine gun shooting at your position. You quickly:
 
-## [Shoot at the Germand Gunner](Survive1.md)
+## [Shoot at the German Gunner](Survive1.md)
 
 ## [Throw a gernade](Death-By-Bullet.md)
