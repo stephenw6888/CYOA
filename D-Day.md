@@ -2,6 +2,6 @@ You wake up to realized that you were on a US landing craft approaching Normandy
 
 [You run through the door](situation/Run-Door.md)
 
-[You jump over to your left]()
+[You jump over to your left](Left-Side.md)
 
-[You jump over to your right]()
+[You jump over to your right](Right-Side.md)
