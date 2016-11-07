@@ -2,4 +2,4 @@
 
 ## [Aim your Rifle at the German](Survive2.md)
 
-## [Shout out Enemy Gernade Incoming](Death-By-Bullets.md)
+## [Shout out Enemy Gernade Incoming](Death-By-Bullet.md)
