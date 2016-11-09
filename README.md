@@ -6,4 +6,4 @@
 
 ## [Click here to view the Diagram](https://docs.google.com/a/hstat.org/drawings/d/1JF8HYccVNrqPL-OkJJ-9xKsXDMEEEzY26UiyRbwbgvs/edit?usp=sharing)
 
-### Made by [Stephen Wang](https://github.com/stephenw6888), [Rene Campos](https://github.com/renec8862) and [Mahmoud Elbayoumi](https://github.com/mahmoudelbayyoumi)
+### Made by [Stephen Wang](https://github.com/stephenw6888), [Rene Campos](https://github.com/renec8862) and [Mahmoud Elbayoumi](https://github.com/mahmoude4189)
