@@ -6,4 +6,4 @@
 
 ## [Click here to view the Diagram]()
 
-### Made by [Stephen Wang](), [Rene Campos]() and [Mahmoud Elbayoumi]()
+### Made by [Stephen Wang](https://github.com/stephenw6888), [Rene Campos](https://github.com/renec8862) and [Mahmoud Elbayoumi](https://github.com/mahmoudelbayyoumi)
